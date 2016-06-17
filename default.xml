@@ -19,7 +19,7 @@
   <project name="platform_build" path="build" remote="aosp-caf" >
   <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project name="device_qcom_common" path="device/qcom/common" remote="aosp-caf" />
+  <project name="android_device_qcom_common" path="device/qcom/common" remote="cm" />
   <project name="device_qcom_sepolicy" path="device/qcom/sepolicy" remote="aosp-caf" />
   <project name="platform_art" path="art" remote="aosp-caf" />
   <project name="platform_bionic" path="bionic" remote="aosp-caf" />
