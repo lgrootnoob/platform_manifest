@@ -463,6 +463,7 @@
   <project name="aosp-g3/android_device_lge_d852" path="device/lge/d852" remote="github" revision="aosp-mm" />
   <project name="aosp-g3/android_device_lge_d851" path="device/lge/d851" remote="github" revision="aosp-mm" />
   <project name="aosp-g3/android_device_lge_vs985" path="device/lge/vs985" remote="github" revision="aosp-mm" />
+  <project name="aosp-g3/android_device_lge_d850" path="device/lge/d850" remote="github" revision="aosp-mm" />
   <project name="aosp-g3/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="aosp-mm" />
   <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-13.0" />
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-13.0" />
