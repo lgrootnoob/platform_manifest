@@ -36,7 +36,7 @@
   <project name="platform_external_connectivity" path="external/connectivity" remote="aosp-caf" />
   <project name="platform_external_e2fsprogs" path="external/e2fsprogs" remote="aosp-caf" />
   <project name="platform_external_elfutils" path="external/elfutils" remote="aosp-caf" />
-  <project name="android_external_exfat" path="external/exfat" remote="aosp-caf" />
+  <project name="platform_external_exfat" path="external/exfat" remote="aosp-caf" />
   <project name="platform_external_f2fs-tools" path="external/f2fs-tools" remote="aosp-caf" />
   <project name="platform_external_fsck_msdos" path="external/fsck_msdos" remote="aosp-caf" />
   <project name="platform_external_ffmpeg" path="external/ffmpeg" remote="aosp-caf" />
@@ -73,7 +73,7 @@
   <project name="platform_system_extras" path="system/extras" remote="aosp-caf" />
   <project name="platform_system_media" path="system/media" remote="aosp-caf" />
   <project name="platform_system_qcom" path="system/qcom" remote="aosp-caf" />
-  <project name="android_system_vold" path="system/vold" remote="aosp-caf" />
+  <project name="platform_system_vold" path="system/vold" remote="aosp-caf" />
   <project name="platform_vendor_aosp" path="vendor/aosp" remote="aosp-caf" />
   <project name="platform_vendor_qcom-opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="aosp-caf" />
   <project name="platform_vendor_qcom-opensource_dpm" path="vendor/qcom/opensource/dpm" remote="aosp-caf" />
